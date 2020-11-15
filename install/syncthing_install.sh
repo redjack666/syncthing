@@ -53,8 +53,7 @@ ss -tunelp | grep 8384
 echo ''
 echo -e "\033[32m url htttp://ip:8384\033[0m"
 
-#echo 'url htttp://ip:8384'
-#ldconfig
+
 
 
 
